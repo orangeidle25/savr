@@ -14,7 +14,7 @@ Download the [latest stable version](https://github.com/orangeidle25/savr/releas
 
 ## Usage
 
-![savr usage](https://cdn.jacobbolduc.com/savr/usage.gif)
+![savr usage](usage.gif)
 
 ## Issues
 
