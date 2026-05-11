@@ -4,13 +4,20 @@
   <p align="center">A macOS menu bar app that holds your screensaver back for a specified interval. Assign keyboard shortcuts and configure your own presets. </p>
 </div>
 
+## Features
+
+- **Flexible Presets**: Define custom durations to keep your screensaver at bay.
+- **Keyboard Shortcuts**: Trigger your presets instantly with custom global hotkeys.
+- **Menu Bar Access**: Quick, lightweight control directly from your status bar.
+- **Infinite Toggle**: Disable your screensaver indefinitely with a preset.
+  
 ## Requirements
 
-macOS 15 Sequoia or higher is required.
+macOS 14 Sonoma or higher is required. Intel Macs and Silicon Macs are supported.
 
 ## Installation
 
-Download the [latest stable version](https://github.com/orangeidle25/savr/releases). You can also [download this repo](https://github.com/orangeidle25/savr/archive/refs/heads/main.zip) and build & run in Xcode.
+Download the [latest stable version](https://github.com/orangeidle25/savr/releases). You can also clone this repo and build & run in Xcode.
 
 ## Usage
 
