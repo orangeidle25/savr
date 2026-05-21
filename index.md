@@ -8,13 +8,7 @@ image: https://cdn.jacobbolduc.com/savr/favicons/logo.png
 <link rel="icon" type="image/png" href="https://cdn.jacobbolduc.com/savr/favicons/logo.png">
 
 <style>
-  header,
-  .page-header,
-  #header_wrap,
-  body > header:first-of-type,
-  body > h1:first-of-type {
-    display: none !important;
-  }
+  .markdown-body > h1:first-child { display: none !important; }
 </style>
 
 <div align="center">
