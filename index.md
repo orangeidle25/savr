@@ -1,3 +1,15 @@
+---
+layout: default
+title: savr | MacOS menu bar app for controlling your screensaver
+description: A macOS menu bar app that holds your screensaver back for a specified interval. Assign keyboard shortcuts and configure your own presets.
+image: https://cdn.jacobbolduc.com/savr/favicons/logo.png
+---
+
+<link rel="icon" type="image/png" href="https://cdn.jacobbolduc.com/savr/favicons/logo.png">
+<style>
+  header, .page-header, .site-header, h1.project-name, h1.project-title { display: none !important; }
+</style>
+
 <div align="center">
   <img src="https://cdn.jacobbolduc.com/savr/favicons/logo.png" width="100" height="100"/>
   <h1>savr</h1>
