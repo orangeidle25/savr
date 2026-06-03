@@ -46,7 +46,7 @@ savr is developed by [Jacob Bolduc](https://github.com/orangeidle25) / [jacobbol
 
 ## Donate
 
-You can support me by donating via [Github Sponsors](https://github.com/sponsors/orangeidle25), [Buy me a coffee](https://buymeacoffee.com/orangeidle25), or my [Stripe link](https://donate.stripe.com/aFa8wIfcd1rBg5l5Au2cg00).
+You can support me by donating via [Github Sponsors](https://github.com/sponsors/orangeidle25), [Buy me a coffee](https://buymeacoffee.com/orangeidle25), or my [Stripe link](https://tinyurl.com/lXAvGpiQ).
 
 ## Copyright and License
 
